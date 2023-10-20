@@ -1,4 +1,6 @@
-.env
-.ipynb_checkpoints/
 .vscode/
 .DS_Store
+.env
+.ipynb_checkpoints/
+
+qr_code/*.png
