@@ -4,3 +4,4 @@
 .ipynb_checkpoints/
 
 qr_code/*.png
+data/
